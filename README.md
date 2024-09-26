@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/1807775e-c60f-403b-be2b-f925d252890d)
 # Volunteer Matching System
 
 ## General Description
@@ -13,11 +12,7 @@ Vulnerabilities and Crises” (demand).
 - PostgresSQL
 
 ## UML Diagram
-
-<p align="center">
-  <img src="https://github.com/nguyenvuminhh/volunteer-analysis/assets/1807775e-c60f-403b-be2b-f925d252890d">
-</p>
-
+![image](https://github.com/user-attachments/assets/1807775e-c60f-403b-be2b-f925d252890d)
 ## Relational Schema
 - Beneficiary(id, name, address, city_id)
 - Request(id, beneficiary_id, number_of_volunteers, priority_value, start_date,
